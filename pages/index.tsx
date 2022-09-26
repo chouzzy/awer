@@ -16,6 +16,7 @@ export default function Home () {
          <Container_3/>
          <Container_5/>
          <Container_6/>
+         <Text> teste </Text>
       </>
 
    )
